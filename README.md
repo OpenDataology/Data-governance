@@ -22,20 +22,11 @@ In addition, the project provides AI data governance methodologies, documentatio
 
 The project provides a series of documentation and methodologies to help you better understand the concepts and best practices of AI data governance. Here are some reference materials:
 
-- NIST SP 800-53 Rev. 4: Security and Privacy Controls for Federal Information Systems and Organizations
+- NIST Artificial Intelligence Risk Management Framework (AI RMF 1.0)
 
-- NIST SP 800-37 Rev. 2: Risk Management Framework for Information Systems and Organizations
+- ISO/IEC DIS 5259-1 Artificial intelligence — Data quality for analytics and machine learning (ML) — Part 1: Overview, terminology, and examples
 
-- NISTIR 8183: Cybersecurity Framework Profile for Ransomware Risk Management
+- ISO/IEC DIS 5259-2 Artificial intelligence — Data quality for analytics and machine learning (ML) — Part 2: Data quality measures
 
-- NISTIR 8204: Interagency Report on Status of International Cybersecurity Standardization for the Internet of Things (IoT)
-
-- NIST SP 800-171 Rev. 2: Protecting Controlled Unclassified Information in Nonfederal Systems and Organizations
-
-- NIST SP 800-53B: Control Baselines for Information Systems and Organizations
-
-- NIST SP 800-53A Rev. 4: Assessing Security and Privacy Controls in Federal Information Systems and Organizations
-
-- NISTIR 8259A: IoT Device Cybersecurity Capability Core Baseline
-
-We encourage you to read these documents carefully and understand the best practices of AI data governance before using the tool.
+- DAMA-DMBOK: Data Management Body of Knowledge: 2nd Edition by International, DAMA
+Published by Technics Publications (2017) ISBN 10: 1634622340  ISBN 13: 9781634622349
