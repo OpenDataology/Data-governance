@@ -6,7 +6,7 @@ SPDX-License-Identifier: Creative Commons Attribution 4.0 International
 -->
 
 
-# General Structure
+# Data Governance Framework
 
 ## Summary
 
@@ -35,6 +35,7 @@ Data governance can be described in a number of dimensions, such as data traceab
 | Intellectual property | Unauthorized use, non-compliance with use agreement resulting in legal action<br>Illegal use of copyrighted data by third parties<br> | Data Compliance|
 | Privacy | Sensitive personal information used for AI training<br>Failure to fulfill personal information protection obligations<br> | Protection of private information |
 | Content | Erotic, violent and other harmful content used for AI training<br>| Content Risk Control |
+| Ethics | Use of data resulting in gender, national and ethnic discrimination | Synthetic data |
 | Quality | Pre-trained data, labeling unable to meet the requirements of authenticity, accuracy, objectivity and diversity<br>| Data quality evaluation|
 | Security | Data stolen by third parties during transmission due to unsecured channels<br>Data stolen by third parties during processing due to insecure production environment | Data lineage tracing  <br> Data encryption <br> Data system security|
 | Lifecycle | Data & Modeling, Data & Product Lifecycle Matching<br>Full management of data from a product perspective <br>| Data lifecycle management |
