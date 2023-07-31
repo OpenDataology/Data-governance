@@ -36,6 +36,14 @@ Data governance can be described in a number of dimensions, such as data traceab
 | Privacy | Sensitive personal information used for AI training<br>Failure to fulfill personal information protection obligations<br> | Protection of private information |
 | Content | Erotic, violent and other harmful content used for AI training<br>| Content Risk Control |
 | Ethics | Use of data resulting in gender, national and ethnic discrimination | Synthetic data |
-| Quality | Pre-trained data, labeling unable to meet the requirements of authenticity, accuracy, objectivity and diversity<br>| Data quality evaluation|
+| Quality | Pre-trained data, labeling unabl e to meet the requirements of authenticity, accuracy, objectivity and diversity<br>| Data quality evaluation|
 | Security | Data stolen by third parties during transmission due to unsecured channels<br>Data stolen by third parties during processing due to insecure production environment | Data lineage tracing  <br> Data encryption <br> Data system security|
 | Lifecycle | Data & Modeling, Data & Product Lifecycle Matching<br>Full management of data from a product perspective <br>| Data lifecycle management |
+
+## Reference
+
+- [A Framework Paper for GPAI’s Work on Data Governance 2.0 (November 2022)](https://gpai.ai/projects/data-governance/Data%20Governance%20-%20A%20Framework%20Paper%20for%20GPAI%E2%80%99s%20Work%20on%20Data%20Governance%202.0%20.pdf)
+
+- [NIST AI Risk Management Framework](https://airc.nist.gov/AI_RMF_Knowledge_Base/Playbook)
+
+- [EU AI Act](https://artificialintelligenceact.eu/)
